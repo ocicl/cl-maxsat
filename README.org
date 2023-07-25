@@ -1,0 +1,10 @@
+* cl-maxsat
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-model-languages/cl-maxsat.git   |
+| commit  | d3ad14f  |
+| systems | cl-maxsat |
+|---------+-------------------------------------------|
+
